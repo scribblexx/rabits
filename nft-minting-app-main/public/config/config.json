@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBaA43479B47aF287AC7EFbDf6CA7e496Ad8ED79D",
+  "SCAN_LINK": "https://etherscan.io/address/0xbaa43479b47af287ac7efbdf6ca7e496ad8ed79d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Jhon Rabbits CRAC",
+  "SYMBOL": "JR",
+  "MAX_SUPPLY": 5999,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/jhon-rabbits-crac",
+  "SHOW_BACKGROUND": true
+}
